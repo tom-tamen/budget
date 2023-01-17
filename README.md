@@ -1,0 +1,1 @@
+Ce projet personnel avait pour but de me faire pratiquer du php et de répondre à un problème. Le problème étant la nécessité d'un outil pour analyser les dépenses quotidiennes. Le projet a été conçu from scratch sans framework en php/MySQL/JavaScript. Librairie utilisée : Chart.js
